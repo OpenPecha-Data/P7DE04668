@@ -1,0 +1,31 @@
+id: P7DE04668
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA28841
+  instance_id: http://purl.bdrc.io/resource/IE28841
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་བྱང་ཆུབ་སེམས་དཔའི་སའི་རྣམ་པར་བཤད་པ།
+  alt_title:
+    zh-hans:
+    - 菩提净地
+  author: http://purl.bdrc.io/resource/P4CZ15425
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    2b55a06b49ab4fae8171d9df18cf6c45:
+      title: པོད ༡་རྣལ་འབྱོར་སྤྱོད་པའི་ས་ལས་བྱང་ཆུབ་སེམས་དཔའི་སའི་རྣམ་པར་བཤད་པ།
+      volume_number: 1
+      base_file: UT28841_I1KG13595_0000.txt
+      reference: http://purl.bdrc.io/resource/VLEEE76E03F40AE5AA
+      image_group: I1KG13595
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW28841
+  - http://purl.bdrc.io/resource/W28841
+  ocr_software: Namsel
+created_at: '2021-12-22T11:11:31.270045'
+last_modified_at: '2021-12-22T11:11:31.270052'
